@@ -3,12 +3,12 @@
 function applyTheme(theme) {
     // Create a mapping of themes to their stylesheet paths
     const themePaths = {
-        LightDefault: "styles/LightThemes/style.css",
-        LightSunset: "styles/LightThemes/sunset.css",
-        LightMordernMinimal: "styles/LightThemes/mordernminimal.css",
-        Lightmonochrome: "styles/LightThemes/monochrome.css",
-        LightEarthly: "styles/LightThemes/earthly.css",
-        LightOceanBreeze: "styles/LightThemes/oceanBreeze.css",
+        // LightDefault: "styles/LightThemes/style.css",
+        // LightSunset: "styles/LightThemes/sunset.css",
+        // LightMordernMinimal: "styles/LightThemes/mordernminimal.css",
+        // Lightmonochrome: "styles/LightThemes/monochrome.css",
+        // LightEarthly: "styles/LightThemes/earthly.css",
+        // LightOceanBreeze: "styles/LightThemes/oceanBreeze.css",
         DarkDefault: "styles/DarkThemes/style.css",
         DarkSunset: "styles/DarkThemes/sunset.css",
         DarkMordernMinimal: "styles/DarkThemes/mordernMinimal.css",
