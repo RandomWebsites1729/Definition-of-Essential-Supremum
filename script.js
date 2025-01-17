@@ -1,5 +1,5 @@
 // Paste the link of your mark down file here to render it into your site
-const myMarkDownFile="collatzConjecture.md";
+const myMarkDownFile="index.md";
 
 // Fetch the Markdown file and render it
 async function getmd() {
