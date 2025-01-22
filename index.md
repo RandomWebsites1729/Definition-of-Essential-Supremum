@@ -29,7 +29,7 @@ Suppose $ n = 6 $:
 - $ 2 $ is even, so $ n = 2 / 2 = 1 $
 
 Thus, the sequence for $ n = 6 $ is:  
-$$\textcolor{red}{6 → 3 → 10 → 5 → 16 → 8 → 4 → 2 → 1.} $$
+$$\textcolor{yellow}{6 → 3 → 10 → 5 → 16 → 8 → 4 → 2 → 1.} $$
 
 ---
 
