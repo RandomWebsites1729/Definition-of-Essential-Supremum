@@ -89,13 +89,15 @@
     <script>
         MathJax = {
             tex: {
-                inlineMath: [['$', '$'], ['\\(', '\\)']],
-                displayMath: [['$$', '$$'], ['\\[', '\\]']],
-            }
+                packages: { '[+]': ['base', 'ams', 'color'] }, // Ensure required packages are included
+                inlineMath: [['$', '$'], ['\\(', '\\)']], // Inline math delimiters
+                displayMath: [['$$', '$$'], ['\\[', '\\]']], // Display math delimiters
+            },
+            loader: {
+                load: ['[tex]/color', '[tex]/ams'] // Load color and AMS packages
+            },
         };
     </script>
-
-
 
     <!-- Custom styles -->
     <link rel="stylesheet" id="17291729" data-theme="true" href="styles/DarkThemes/earthly.css">
